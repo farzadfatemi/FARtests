@@ -1,0 +1,2 @@
+# FARtests
+My personal projects
